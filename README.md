@@ -1,9 +1,11 @@
 # 👋 Hi, my name is Luiz Fernando Klein!
 <p align="left">
   <a href="https://www.linkedin.com/in/luiz-fernando-klein/">
-		<img alt="Linkedin" src="https://img.shields.io/badge/Luiz%20Fernando-9000FE?style=flat-square&logo=linkedin&logoColor=white" />
-	</a>
-  <img alt="Email" src="https://img.shields.io/badge/luizfernandoklein@live.com-9000FE?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Linkedin" src="https://img.shields.io/badge/Luiz%20Fernando-9000FE?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-fernando-klein/">
+    <img alt="Email" src="https://img.shields.io/badge/luizfernandoklein@live.com-9000FE?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
   <img alt="Languages" src="https://img.shields.io/badge/Languages:-9000FE?style=flat-square&logoColor=white" />
   <img alt="Javacript" src="https://img.shields.io/badge/-9000FE?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/-9000FE?style=flat-square&logo=typescript&logoColor=white" />
