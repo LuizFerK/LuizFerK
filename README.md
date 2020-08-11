@@ -17,9 +17,9 @@
   </a>
 </p>
 
-### 🔭 I'm a fullstack engineer, studying everything about web development and technologies!
+### 🔭 I'm a full stack engineer, studying everything about web development and technologies!
 
-### ✨ Take a look of my pinned projects to see what I can do.
+### ✨ Take a look at my pinned projects to see what I can do.
 
 ### 📫 Want to contact me? Send me an email: **luizfernandoklein@live.com**!
 
