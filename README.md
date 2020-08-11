@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/luiz-fernando-klein/">
     <img alt="Linkedin" src="https://img.shields.io/badge/Luiz%20Fernando-9000FE?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/luiz-fernando-klein/">
+  <a href="#">
     <img alt="Email" src="https://img.shields.io/badge/luizfernandoklein@live.com-9000FE?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <img alt="Languages" src="https://img.shields.io/badge/Languages:-9000FE?style=flat-square&logoColor=white" />
