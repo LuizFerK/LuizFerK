@@ -38,10 +38,12 @@
 
 ### ☄ Stats
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizFerK&bg_color=45,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=10" />
-</a>
+<div style="display: flex; align-items: center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuizFerK&bg_color=45,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=10" />
+  </a>
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFerK&hide=Java&layout=compact&bg_color=45,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=10" />
-</a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFerK&hide=Java&layout=compact&bg_color=45,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=10" />
+  </a>
+</div>
