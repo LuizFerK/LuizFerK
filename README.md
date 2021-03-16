@@ -4,19 +4,19 @@
     <img alt="https://www.linkedin.com/in/luiz-fernando-klein/" src="https://img.shields.io/badge/Luiz%20Fernando-9000FE?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:luizfernandoklein@live.com">
-    <img alt="luizfernandoklein@live.com" src="https://img.shields.io/badge/luizfernandoklein@live.com-9000FE?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="luizfernandoklein@live.com" src="https://img.shields.io/badge/luizfernandoklein@live.com-8E54E9?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
-    <img alt="Languages:" src="https://img.shields.io/badge/Languages:-9000FE?style=flat-square&logoColor=white" />
+    <img alt="Languages:" src="https://img.shields.io/badge/Languages:-8E54E9?style=flat-square&logoColor=white" />
   </a>
   <a href="#">
-    <img alt="Javacript" src="https://img.shields.io/badge/-9000FE?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="Javacript" src="https://img.shields.io/badge/-8E54E9?style=flat-square&logo=javascript&logoColor=white" />
   </a>
   <a href="#">
-    <img alt="Typescript" src="https://img.shields.io/badge/-9000FE?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Typescript" src="https://img.shields.io/badge/-8E54E9?style=flat-square&logo=typescript&logoColor=white" />
   </a>
   <a href="#">
-    <img alt="Elixir" src="https://img.shields.io/badge/-9000FE?style=flat-square&logo=elixir&logoColor=white" />
+    <img alt="Elixir" src="https://img.shields.io/badge/-8E54E9?style=flat-square&logo=elixir&logoColor=white" />
   </a>
 </p>
 
