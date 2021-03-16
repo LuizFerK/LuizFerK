@@ -39,7 +39,7 @@
 ### ☄ Stats
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LuizFerK&bg_color=45,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizFerK&bg_color=45,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=10" />
 </a>
 
 <a href="#">
