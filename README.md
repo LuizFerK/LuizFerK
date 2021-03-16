@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Luiz Fernando Klein!
 <p align="left">
   <a href="https://www.linkedin.com/in/luiz-fernando-klein/">
-    <img alt="https://www.linkedin.com/in/luiz-fernando-klein/" src="https://img.shields.io/badge/Luiz%20Fernando-9000FE?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="https://www.linkedin.com/in/luiz-fernando-klein/" src="https://img.shields.io/badge/Luiz%20Fernando-8E54E9?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:luizfernandoklein@live.com">
     <img alt="luizfernandoklein@live.com" src="https://img.shields.io/badge/luizfernandoklein@live.com-8E54E9?style=flat-square&logo=gmail&logoColor=white" />
