@@ -1,22 +1,22 @@
 # 👋 Hi, my name is Luiz Fernando Klein!
 <p align="left">
   <a href="https://www.linkedin.com/in/luiz-fernando-klein/">
-    <img alt="https://www.linkedin.com/in/luiz-fernando-klein/" src="https://img.shields.io/badge/Luiz%20Fernando-8E54E9?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="https://www.linkedin.com/in/luiz-fernando-klein/" src="https://img.shields.io/badge/Luiz%20Fernando-8E54E9?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:luizfernandoklein@live.com">
-    <img alt="luizfernandoklein@live.com" src="https://img.shields.io/badge/luizfernandoklein@live.com-8E54E9?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="luizfernandoklein@live.com" src="https://img.shields.io/badge/luizfernandoklein@live.com-8E54E9?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
-    <img alt="Languages:" src="https://img.shields.io/badge/Languages:-8E54E9?style=flat-square&logoColor=white" />
+    <img alt="Languages:" src="https://img.shields.io/badge/Languages:-8E54E9?style=flat&logoColor=white" />
   </a>
   <a href="#">
-    <img alt="Javacript" src="https://img.shields.io/badge/-8E54E9?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="Javacript" src="https://img.shields.io/badge/-8E54E9?style=flat&logo=javascript&logoColor=white" />
   </a>
   <a href="#">
-    <img alt="Typescript" src="https://img.shields.io/badge/-8E54E9?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Typescript" src="https://img.shields.io/badge/-8E54E9?style=flat&logo=typescript&logoColor=white" />
   </a>
   <a href="#">
-    <img alt="Elixir" src="https://img.shields.io/badge/-8E54E9?style=flat-square&logo=elixir&logoColor=white" />
+    <img alt="Elixir" src="https://img.shields.io/badge/-8E54E9?style=flat&logo=elixir&logoColor=white" />
   </a>
 </p>
 
