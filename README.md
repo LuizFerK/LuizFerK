@@ -12,19 +12,19 @@
 
 ### ✨ Take a look at my pinned projects to see what I can do.
 
-### 📫 Want to contact me? Send me an email: **luizfernandoklein@live.com**!
+### 📫 Want to contact me? Send me an email! **luizfernandoklein@live.com**
 
 ### 🔥 Techs that I use:
 
 <p>
-  <img width="205.3" alt="Elixir" src="./.github/elixir.png" />
-  <img width="205.3" alt="Typescript" src="./.github/typescript.png" />
-  <img width="205.3" alt="Javascript" src="./.github/javascript.png" />
-  <img width="205.3" alt="React" src="./.github/react.png" />
-  <img width="205.3" alt="Phoenix" src="./.github/phoenix.png" />
-  <img width="205.3" alt="Node.js" src="./.github/nodejs.png" />
-  <img width="205.3" alt="Next.js" src="./.github/nextjs.png" />
-  <img width="205.3" alt="Expo" src="./.github/expo.png" />
+  <img width="205.3" height="205.3" alt="Elixir" src="./.github/elixir.png" />
+  <img width="205.3" height="205.3" alt="Typescript" src="./.github/typescript.png" />
+  <img width="205.3" height="205.3" alt="Javascript" src="./.github/javascript.png" />
+  <img width="205.3" height="205.3" alt="React" src="./.github/react.png" />
+  <img width="205.3" height="205.3" alt="Phoenix" src="./.github/phoenix.png" />
+  <img width="205.3" height="205.3" alt="Node.js" src="./.github/nodejs.png" />
+  <img width="205.3" height="205.3" alt="Next.js" src="./.github/nextjs.png" />
+  <img width="205.3" height="205.3" alt="Expo" src="./.github/expo.png" />
 </p>
 
 ### ☄ Stats
