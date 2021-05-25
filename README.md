@@ -17,22 +17,22 @@
 ### 🔥 Techs that I use:
 
 <p>
-  <img width="205.3" height="205.3" alt="Elixir" src="./.github/elixir.png" />
-  <img width="205.3" height="205.3" alt="Typescript" src="./.github/typescript.png" />
-  <img width="205.3" height="205.3" alt="Javascript" src="./.github/javascript.png" />
-  <img width="205.3" height="205.3" alt="React" src="./.github/react.png" />
-  <img width="205.3" height="205.3" alt="Phoenix" src="./.github/phoenix.png" />
-  <img width="205.3" height="205.3" alt="Node.js" src="./.github/nodejs.png" />
-  <img width="205.3" height="205.3" alt="Next.js" src="./.github/nextjs.png" />
-  <img width="205.3" height="205.3" alt="Expo" src="./.github/expo.png" />
+  <img width="205.5" height="205.5" alt="Elixir" src="./.github/elixir.png" />
+  <img width="205.5" height="205.5" alt="Typescript" src="./.github/typescript.png" />
+  <img width="205.5" height="205.5" alt="Javascript" src="./.github/javascript.png" />
+  <img width="205.5" height="205.5" alt="React" src="./.github/react.png" />
+  <img width="205.5" height="205.5" alt="Phoenix" src="./.github/phoenix.png" />
+  <img width="205.5" height="205.5" alt="Node.js" src="./.github/nodejs.png" />
+  <img width="205.5" height="205.5" alt="Next.js" src="./.github/nextjs.png" />
+  <img width="205.5" height="205.5" alt="Expo" src="./.github/expo.png" />
 </p>
 
 ### ☄ Stats
 
 <p>
-  <img width="453.5" src="https://github-readme-stats.vercel.app/api?username=LuizFerK&bg_color=ffffff10&text_color=fff&title_color=f21170&border_radius=10&border_color=00000000&show_icons=true&icon_color=914BAF" />
+  <img width="453.5" height="178.66" src="https://github-readme-stats.vercel.app/api?username=LuizFerK&bg_color=ffffff13&text_color=fff&title_color=f21170&border_radius=10&border_color=00000000&show_icons=true&icon_color=914BAF" />
 
-  <img width="378.95" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFerK&hide=Java,Ruby,Objective-C&layout=compact&bg_color=ffffff10&text_color=fff&title_color=f21170&border_radius=10&border_color=00000000" />
+  <img width="378.95" height="178.64" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFerK&hide=Java,Ruby,Objective-C&layout=compact&bg_color=ffffff13&text_color=fff&title_color=f21170&border_radius=10&border_color=00000000" />
 </p>
 
 <p align="center">
