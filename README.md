@@ -8,7 +8,7 @@
   </a>
 </p>
 
-### 🔭 I'm a full-stack software engineer, studying everything about development and technologies!
+### 🔭 I'm a full-stack software engineer, studying everything about development and technology!
 
 ### ✨ Take a look at my pinned projects to see what I can do.
 
