@@ -17,14 +17,14 @@
 ### 🔥 Techs that I use:
 
 <p>
-  <img width="24.6%" height="24.6%" alt="Elixir" src="./.github/elixir.png" />
-  <img width="24.6%" height="24.6%" alt="Typescript" src="./.github/typescript.png" />
-  <img width="24.6%" height="24.6%" alt="Javascript" src="./.github/javascript.png" />
-  <img width="24.6%" height="24.6%" alt="React" src="./.github/react.png" />
-  <img width="24.6%" height="24.6%" alt="Phoenix" src="./.github/phoenix.png" />
-  <img width="24.6%" height="24.6%" alt="Node.js" src="./.github/nodejs.png" />
-  <img width="24.6%" height="24.6%" alt="Next.js" src="./.github/nextjs.png" />
-  <img width="24.6%" height="24.6%" alt="Expo" src="./.github/expo.png" />
+  <img width="24.2%" height="24.2%" alt="Elixir" src="./.github/elixir.png" />
+  <img width="24.2%" height="24.2%" alt="Typescript" src="./.github/typescript.png" />
+  <img width="24.2%" height="24.2%" alt="Javascript" src="./.github/javascript.png" />
+  <img width="24.2%" height="24.2%" alt="React" src="./.github/react.png" />
+  <img width="24.2%" height="24.2%" alt="Phoenix" src="./.github/phoenix.png" />
+  <img width="24.2%" height="24.2%" alt="Node.js" src="./.github/nodejs.png" />
+  <img width="24.2%" height="24.2%" alt="Next.js" src="./.github/nextjs.png" />
+  <img width="24.2%" height="24.2%" alt="Expo" src="./.github/expo.png" />
 </p>
 
 ### ☄ Stats
