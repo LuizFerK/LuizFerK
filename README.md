@@ -30,9 +30,9 @@
 ### ☄ Stats
 
 <p>
-  <img width="437" src="https://github-readme-stats.vercel.app/api?username=LuizFerK&bg_color=1F2329&text_color=fff&title_color=f21170&border_radius=10&border_color=00000000&show_icons=true&icon_color=914BAF" />
+  <img width="434" src="https://github-readme-stats.vercel.app/api?username=LuizFerK&bg_color=1F2329&text_color=fff&title_color=f21170&border_radius=10&border_color=00000000&show_icons=true&icon_color=914BAF" />
 
-  <img width="362.45" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFerK&hide=Java,Ruby,Objective-C&layout=compact&bg_color=1F2329&text_color=fff&title_color=f21170&border_radius=10&border_color=00000000" />
+  <img width="365.45" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFerK&hide=Java,Ruby,Objective-C&layout=compact&bg_color=1F2329&text_color=fff&title_color=f21170&border_radius=10&border_color=00000000" />
 </p>
 
 <p align="center">
